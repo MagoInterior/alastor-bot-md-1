@@ -61,6 +61,10 @@ Por mais que a instalação seja bem simples de fazer.Este bot é feito para que
 Caso tenha interesse em comprar o código editável do alastor bot ou alguma base para criar seu próprio bot multi device [clique aqui](https://wa.me/557187645787) para negociar comigo 😀 </b>
 
 ----
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/alastor-bot-md-1)](https://repl.it/github/MagoInterior/alastor-bot-md-1) 
+
 
 # O que há de novo?
 ---------
